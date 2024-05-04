@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellyton-xs&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 
-meu site oficial:
+## meu site oficial
 https://wellyton-xs.github.io
 
 ## Codar é um modo de pensar
