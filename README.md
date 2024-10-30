@@ -1,12 +1,24 @@
-## Just Me :)
+# Just Me :)
 
-[![Welly GitHub stats](https://github-readme-stats.vercel.app/api?username=wellyton-xs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## My official website
+### github status
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wellyton-xs&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellyton-xs&layout=compact&theme=radical" />
+</a>
 
-https://wellyton-xs.github.io
+### Profile Trophy
 
-## Things that I like:
+[![trophy](https://github-profile-trophy.vercel.app/?username=wellyton-xs&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+### Links:
+
+[My official website](https://wellyton-xs.github.io)
+
+### Things that I like:
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -14,7 +26,3 @@ https://wellyton-xs.github.io
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-
-## GitHub Pofile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=wellyton-xs&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
