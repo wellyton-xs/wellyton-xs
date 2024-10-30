@@ -2,7 +2,7 @@
 
 
 ### github status
-<div style="display:flex">
+<div>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wellyton-xs&show_icons=true&theme=radical" />
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellyton-xs&layout=compact&theme=radical" />
 </div>
