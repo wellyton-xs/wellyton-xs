@@ -15,3 +15,8 @@ https://wellyton-xs.github.io
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+GitHub Pofile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wellyton-xs&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
