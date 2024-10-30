@@ -1,14 +1,12 @@
-## apenas eu :)
+## Just Me :)
 
-<div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellyton-xs&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellyton-xs&layout=compact&langs_count=16&theme=synthwave"/>
-</div>
+[![Welly GitHub stats](https://github-readme-stats.vercel.app/api?username=wellyton-xs)](https://github.com/anuraghazra/github-readme-stats)
 
-## meu site oficial
+## My official website
+
 https://wellyton-xs.github.io
 
-## coisas que eu gosto:
+## Things that I like:
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -17,6 +15,6 @@ https://wellyton-xs.github.io
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-GitHub Pofile Trophy
+## GitHub Pofile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wellyton-xs&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
