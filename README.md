@@ -1,6 +1,6 @@
 ## Just Me :)
 
-[![Welly GitHub stats](https://github-readme-stats.vercel.app/api?username=wellyton-xs)](https://github.com/anuraghazra/github-readme-stats)
+[![Welly GitHub stats](https://github-readme-stats.vercel.app/api?username=wellyton-xs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My official website
 
