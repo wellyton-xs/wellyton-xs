@@ -2,8 +2,7 @@
 
 My name is Wellyton and I am a brazillian programer and tech enthusiast.
 
-
-## My coding stack and daily tools
+If you have interest in more information about me, you can see in my official website: [wellyxs.com](https://wellyxs.com)
 
 ![Elm](https://img.shields.io/badge/Elm-%2360B5CC.svg?style=for-the-badge&logo=elm&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -15,4 +14,3 @@ My name is Wellyton and I am a brazillian programer and tech enthusiast.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-If you have interest in more information about me, you can see in my official website: [wellyxs.com](https://wellyxs.com)
